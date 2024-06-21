@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/adminkit/adminkit"><img src="https://adminkit.io/icons/icon-512x512.png" alt="AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5" width="96"></a>
 </p>
 
@@ -145,4 +145,4 @@ Get more power with AdminKit PRO, a premium variant of AdminKit, featuring hundr
 |                     | ✔ Drag and Drop                              |
 |                     | ✔ Toast Notifications                        |
 |                     | ✔ WYSIWYG Editors                            |
-|                     | ✔ Premium Support                            |
+|                     | ✔ Premium Support                            | -->
