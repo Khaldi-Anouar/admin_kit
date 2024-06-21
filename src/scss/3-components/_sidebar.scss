@@ -107,11 +107,11 @@ a.sidebar-link {
   @media (min-width: 1px) and (max-width: #{map-get($grid-breakpoints, 'lg') - .02px}) {
 
     // Sidebar default state (on mobile)
-    margin-left: -$sidebar-width;
+    margin-left: 0;
 
     // Sidebar collapsed state (on mobile)
     &.collapsed {
-      margin-left: 0;
+      margin-left: -$sidebar-width;
     }
   }
 }
